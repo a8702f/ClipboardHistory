@@ -53,7 +53,7 @@ int main()
     SetConsoleTitleA( "Clipboard History v1.0" );
     std::cout << "Welcome to Adrian's Clipboard history!\n";
     std::cout << "\n";
-    std::cout << "Are you sure you want me to log your Clipboard history?\n";
+    std::cout << "Are you sure you want me to log your Clipboard history? (y/n)\n";
   
     std::cin >> yesno;
 
